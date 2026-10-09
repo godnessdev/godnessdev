@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-labelledby="title desc">
+  <title id="title">Leonardo Vieira — Software Engineer and Game Developer</title>
+  <desc id="desc">Banner escuro com padrões de circuitos, pontos conectados e tipografia em tons de azul e ciano.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0A0E19"/><stop offset="0.58" stop-color="#101A2E"/><stop offset="1" stop-color="#080D19"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#57E0D7"/><stop offset="1" stop-color="#6D96FF"/></linearGradient>
+    <radialGradient id="halo" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#3477D7" stop-opacity=".27"/><stop offset="1" stop-color="#3477D7" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#87A9D4" stroke-opacity=".075" stroke-width="1"/></pattern>
+  </defs>
+  <rect width="1200" height="310" rx="19" fill="url(#bg)"/>
+  <rect width="1200" height="310" rx="19" fill="url(#grid)"/>
+  <ellipse cx="980" cy="144" rx="285" ry="252" fill="url(#halo)"/>
+  <rect x="48" y="56" width="5" height="198" rx="2.5" fill="url(#accent)"/>
+  <text x="81" y="104" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" letter-spacing="5" fill="#5CD7D1">ENGINEERING  /  GAME SYSTEMS</text>
+  <text x="80" y="169" font-family="Arial,Helvetica,sans-serif" font-size="55" font-weight="800" letter-spacing="1.2" fill="#F2F6FF">LEONARDO VIEIRA</text>
+  <text x="82" y="208" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="400" fill="#C2D1EC">Software Engineer &amp; Game Developer</text>
+  <text x="83" y="243" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="400" letter-spacing="1.35" fill="#8396B6">BUILDING DIGITAL WORLDS AND RELIABLE SYSTEMS</text>
+  <g stroke="#5BCFDE" stroke-opacity=".35" fill="none" stroke-width="2">
+    <circle cx="1008" cy="151" r="105"/><circle cx="1008" cy="151" r="73"/><circle cx="1008" cy="151" r="42"/>
+    <path d="M881 151H1135 M1008 24V278 M917 62L1101 242 M1100 60L915 241" stroke-opacity=".19"/>
+    <path d="M927 94L973 125L1017 94L1079 122 M945 211L989 178L1031 204L1088 168"/>
+  </g>
+  <g fill="#6BE2DF"><circle cx="927" cy="94" r="5"/><circle cx="1017" cy="94" r="6"/><circle cx="1079" cy="122" r="5"/><circle cx="989" cy="178" r="5"/><circle cx="1088" cy="168" r="5"/></g>
+  <circle cx="1008" cy="151" r="20" fill="#162E48" stroke="#89B8FF" stroke-width="2"/>
+  <path d="M998 151H1018 M1008 141V161" stroke="#83E8DB" stroke-width="3" stroke-linecap="round"/>
+  <g opacity=".5" stroke="#92ACD2"><path d="M792 49h70 M776 263h92 M1157 53h-34 M1150 261h-24"/></g>
+</svg>
